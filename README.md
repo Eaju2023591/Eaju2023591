@@ -1,15 +1,13 @@
+### Quien Soy 🧸?
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2458427a-7cd7-4603-8d3c-57967b8806a4" alt="luffy" width="100%" />
 </div>
 
-### Quien Soy 🧸?
-
 <div align="center">
-<table><img width="506" height="900" alt="luffy" src="https://github.com/user-attachments/assets/3d50fcf2-7cb8-42cc-825f-8b55c94dc59d" />
 
 <tr>
 <td width="35%" align="center">
-  <img src="URL_DE_TU_AVATAR_O_GATO_AQUI" alt="Avatar" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b89446d6-e578-4891-9f1b-dd57352f54af" alt="pinwi2" width="100%" />
 </td>
 <td width="65%">
 
