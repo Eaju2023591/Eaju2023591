@@ -35,7 +35,7 @@ Actualmente me encuentro aprendiendo Java, desarrollando aplicaciones y perfecci
 
 ### Contacto y Enlaces
 
-- **GitHub:** [eaju-2023591](https://github.com/eaju-2023591)
+- **GitHub:** [Eaju2023591](https://github.com/Eaju2023591)
 - **Enfoque actual:** Desarrollo de aplicaciones de escritorio y arquitecturas limpias.
   
 ---
