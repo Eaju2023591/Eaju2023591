@@ -17,7 +17,7 @@ Actualmente me encuentro aprendiendo Java, desarrollando aplicaciones y perfecci
 
 </td>
 <td width="35%" align="center">
-  <img src="https://github.com/user-attachments/assets/b89446d6-e578-4891-9f1b-dd57352f54af" alt="pinwi2" width="90%" />
+  <img src="https://github.com/user-attachments/assets/b89446d6-e578-4891-9f1b-dd57352f54af" alt="pinwi2" width="85%" />
 </td>
 </tr>
 </table>
